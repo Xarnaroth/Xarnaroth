@@ -7,6 +7,6 @@ Just posting the projects i've made in class or in my free time.
 - :triangular_flag_on_post: Favourites Languages :
 	- :trophy: Java
 	- :gem: JavaScript
-	- :hearts: C#
+	- :hearts: Batch
 - :pushpin: I'm looking for a carrer in cybersecurity :
 	- :unlock: Pentesting red team
