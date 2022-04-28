@@ -1,6 +1,5 @@
 # Welcome on my profile ! :wave:
 I am a student in computer science, in the IUT of Belfort-Montbéliard in France. \
-Just posting the projects i've made in class or in my free time.
 
 ## About me
 - ::fr: French
