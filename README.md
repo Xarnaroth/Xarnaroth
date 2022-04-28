@@ -1,5 +1,5 @@
 # Welcome on my profile ! :wave:
-I am a student in computer science, in the IUT of Belfort-Montbéliard in France. \
+I am a student in computer science, in the IUT of Belfort-Montbéliard in France.
 
 ## About me
 - ::fr: French
